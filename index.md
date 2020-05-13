@@ -4,14 +4,16 @@
 
 layout: home
 ---
-INSERT WIDE BANNER PICTURE\
+{::nomarkdown}
+<p align="center">
+<img src="{{site.baseurl}}Profile_Pic.jpg" width="30%" height="30%"/>
+</p>
+<p align="center">
+Ice/Ocean/Climate Research Scientist  |  Brisbane, Queensland, Australia
+</p>
+{:/}
+------
 
-![Octocat](Profile_Pic_300.png) \
-
-Ice/Ocean/Climate Scientist\
-Brisbane, Queensland, Australia\
-
-* * *
 ## Professional Profile
 * **Postdoctoral research associate** at the University of Tasmania, Antarctic Gateway Partnership, where I research ocean-ice shelf interaction using numerical models.
 * **Fulbright scholar** (2013-2014; University of Texas, Austin).

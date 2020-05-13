@@ -3,11 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
-Publication metrics:
-[google scholar](https://testlink)
-orcid widget
-stackoverflow widget?
+### Metrics
+[google scholar](https://scholar.google.com.au/citations?user=C0PFbeQAAAAJ&hl=en) 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-7218-2785" href="https://orcid.org/0000-0002-7218-2785" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-7218-2785</a></div> 
+<a href="https://stackexchange.com/users/1469184"><img src="https://stackexchange.com/users/flair/1469184.png" width="208" height="58" alt="profile for David_G on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David_G on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
 
 ### Peer-reviewed articles
 14.	**Gwyther, D. E.**, Kusahara, K., Asay-Davis, X. S., Dinniman, M. S., & Galton-Fenzi, B. K. Vertical processes and resolution impact ice shelf basal melting: A multi-model study. Ocean Modelling, 147:101569. (2020)

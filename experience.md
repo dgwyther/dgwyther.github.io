@@ -15,9 +15,15 @@ permalink: /experience/
 
 ### Experience in the Field
 
-* December 2018 - March 2019: AUV Sorsdal mission
- * Lead Field Scientist
+* December 2018 - March 2019: AUV Sorsdal mission // Lead Field Scientist
 
-* December 2013 - February 2014: NBP 1402
- * Field Oceanographer
+* December 2013 - February 2014: NBP 1402 // Field Oceanographer
+ 
+### Qualifications
+**2012–2015:** Doctor of Philosophy (Quantitative Marine Science) // Institute for Marine and Antarctic Studies, University of Tasmania, Australia
 
+**2012–2015:** Graduate Diploma in Marine Sciences // Institute for Marine and Antarctic Studies, University of Tasmania, Australia
+
+**2010:** Bachelor of Science with Honours Class I (Quantum Physics) // School of Mathematics and Physics, University of Queensland, Australia
+
+**2007–2009:** Bachelor of Science // School of Mathematics and Physics, University of Queensland, Australia

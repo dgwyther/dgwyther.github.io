@@ -18,9 +18,3 @@ david . gwyther -AT- gmail.com
 ### Address:
 
 Brisbane, Queensland, Australia
-
-### Other contact details:
-
-github
-
-twitter

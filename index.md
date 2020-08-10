@@ -15,7 +15,7 @@ Ice/Ocean/Climate Research Scientist  |  Brisbane, Queensland, Australia
 ------
 
 ## Professional Profile
-* **Postdoctoral research associate** at the University of Tasmania, Antarctic Gateway Partnership, where I research ocean-ice shelf interaction using numerical models.
+* **Ocean-Ice-Climate modeller**: Previous postdoctoral research has explored ocean-ice shelf interaction around Antarctica using numerical models.
 * **Fulbright scholar** (2013-2014; University of Texas, Austin).
 * **High impact publications**: First-author publication in Nature Communications showing impact of natural variability on the cryosphere. 
 * **Multidisciplinary experience**: Ice shelf-ocean interaction, oceanography, glaciology, climate dynamics and variability, air-sea interaction, computational physics, frequency analysis, ecosystem modelling, statistics

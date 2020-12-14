@@ -34,18 +34,18 @@ permalink: /experience/
 - Actual languages: English; German (trying to learn!)
 
 ### Invited seminars, lectures and talks (Seminars ~1 hr, Lecture ~15 mins)
-- Invite Seminar, **Subglacial freshwater drainage increases modelled ice shelf basal melting**, Centre for Applications in Natural Resource Mathematics Lab Seminar, UQ, **Australia**. 2020.
-- Invited Seminar, **ICE/OCEAN INTERACTIONS BENEATH THE SORSDAL**, Coastal and Regional Oceanography Lab Seminar. UNSW, **Australia**. 2020.
-- Invited Seminar, **ICE/OCEAN INTERACTIONS BENEATH THE SORSDAL**, Physics of Oceans and Atmospheres Seminar. Oregon State University, **USA**. 2020.
-- Public Lecture, **Natural, intrinsic variability in melt rates of the Totten Ice Shelf**, Australia-China Antarctic Forum. Beijing Normal University, **China**. 2019.
-- Public Lecture, **Australia’s first under-ice AUV deployment**, Hobart, Australia 2019.
-- Public Seminar, **ICE SHELVES: waterfront mansions and the little glacier that could**, Davis Station Science Seminar, Davis Station, **Antarctica**, 2019.
-- Invited Lecture, **The influence of natural variability on ice shelf melting**, MISOMIP meeting, Abu Dhabi, **UAE** 2018.
-- Invited Tutorial: **Intro to ROMS**, FISOC Workshop, Lapland, **Finland** 2018.
-- Invited Lecture, **Ice/ocean models to investigate climate change**, Elizabeth and Frederick White Conference, Hobart, **Australia** 2017.
-- Invited Lecture, **Using Ocean & Ice-sheet models to inform observations**,OASIIS/POGO Workshop, Bremerhaven, **Germany** 2017.
-- Policy analysis seminar, **ACECRC Position Analysis presentation**, Canberra, **Australia** 2017.
-- Invited Lecture, **Modelling Ice shelf-Ocean interaction with ROMS**, Ice-Climate Symposium, Canberra, **Australia** 2016.
-- Invited Lecture, **Ice-ocean interaction at the boundary layer: Lessons learnt from idealised experiments**,Potsdam Institute for Climate Impact Research, Potsdam, **Germany**, 2016.
-- Invited Lecture, **Ice-ocean interaction at the boundary layer: Lessons learnt from idealised experiments**, University of Oxford, Oxford, **United Kingdom** 2016.
-- Invited Seminar, **Investigating the Ocean-driven melting of the Totten Glacier Ice Shelf, East Antarctica**, Old Dominion University, Norfolk, **USA** 2014.
+- Invite Seminar, **Subglacial freshwater drainage increases modelled ice shelf basal melting**, Centre for Applications in Natural Resource Mathematics Lab Seminar, UQ, *Australia*. 2020.
+- Invited Seminar, **ICE/OCEAN INTERACTIONS BENEATH THE SORSDAL**, Coastal and Regional Oceanography Lab Seminar. UNSW, *Australia*. 2020.
+- Invited Seminar, **ICE/OCEAN INTERACTIONS BENEATH THE SORSDAL**, Physics of Oceans and Atmospheres Seminar. Oregon State University, *USA*. 2020.
+- Public Lecture, **Natural, intrinsic variability in melt rates of the Totten Ice Shelf**, Australia-China Antarctic Forum. Beijing Normal University, *China*. 2019.
+- Public Lecture, **Australia’s first under-ice AUV deployment**, Hobart, *Australia* 2019.
+- Public Seminar, **ICE SHELVES: waterfront mansions and the little glacier that could**, Davis Station Science Seminar, Davis Station, *Antarctica*, 2019.
+- Invited Lecture, **The influence of natural variability on ice shelf melting**, MISOMIP meeting, Abu Dhabi, *UAE* 2018.
+- Invited Tutorial: **Intro to ROMS**, FISOC Workshop, Lapland, *Finland* 2018.
+- Invited Lecture, **Ice/ocean models to investigate climate change**, Elizabeth and Frederick White Conference, Hobart, *Australia* 2017.
+- Invited Lecture, **Using Ocean & Ice-sheet models to inform observations**,OASIIS/POGO Workshop, Bremerhaven, *Germany* 2017.
+- Policy analysis seminar, **ACECRC Position Analysis presentation**, Canberra, *Australia* 2017.
+- Invited Lecture, **Modelling Ice shelf-Ocean interaction with ROMS**, Ice-Climate Symposium, Canberra, *Australia* 2016.
+- Invited Lecture, **Ice-ocean interaction at the boundary layer: Lessons learnt from idealised experiments**,Potsdam Institute for Climate Impact Research, Potsdam, *Germany*, 2016.
+- Invited Lecture, **Ice-ocean interaction at the boundary layer: Lessons learnt from idealised experiments**, University of Oxford, Oxford, *United Kingdom* 2016.
+- Invited Seminar, **Investigating the Ocean-driven melting of the Totten Glacier Ice Shelf, East Antarctica**, Old Dominion University, Norfolk, *USA* 2014.

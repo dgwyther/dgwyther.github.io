@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### Peer-reviewed articles
 17. Gladstone, R., Galton-Fenzi, B., **Gwyther, D.**, Zhou, Q., Hattermann, T., Zhao, C., ... \& Moore, J. The Framework For Ice Sheet–Ocean Coupling (FISOC) V1. Geoscientific Model Development, 14(2), 889-905.(2021)
-16. Noble, T. L., Rohling, E. J., Aitken, A. R. A., Bostock, H. C., Chase, Z., Gomez, N., ... \& ** D. E. Gwyther** et al. The Sensitivity of the Antarctic Ice Sheet to a Changing Climate: Past, Present, and Future. Reviews of Geophysics, 58(4), e2019RG000663 (2020)
+16. Noble, T. L., Rohling, E. J., Aitken, A. R. A., Bostock, H. C., Chase, Z., Gomez, N., ... \& **D. E. Gwyther** et al. The Sensitivity of the Antarctic Ice Sheet to a Changing Climate: Past, Present, and Future. Reviews of Geophysics, 58(4), e2019RG000663 (2020)
 15. **Gwyther, D. E.**, Spain, E., King, P., Guihen, D., Williams, G. D., Evans, E., et al. Cold ocean cavity and weak basal melting of the Sørsdal ice shelf revealed by surveys using autonomous platforms. Journal of Geophysical Research: Oceans, e2019JC015882 (2020)
 14.	**Gwyther, D. E.**, Kusahara, K., Asay-Davis, X. S., Dinniman, M. S., & Galton-Fenzi, B. K. Vertical processes and resolution impact ice shelf basal melting: A multi-model study. Ocean Modelling, 147:101569. (2020)
 13.	Greene, C. A., Thirumalai, K.,  Kearney, K. A., Delgado, J. M., Schwanghart, W. Wolfenbarger, N. S., Thyng, K. M. **Gwyther, D. E.**, Gardner, A. S. & Blankenship, D. D. The Climate Data Toolbox for MATLAB. Geochemistry, Geophysics, Geosystems, 20 (7), doi:10.1029/2019GC008392 (2019)

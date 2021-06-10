@@ -19,7 +19,7 @@ Ice/Ocean/Climate Research Scientist  |  Brisbane, Queensland, Australia
 * **Fulbright scholar** (2013-2014; University of Texas, Austin).
 * **High impact publications**: First-author publication in Nature Communications showing impact of natural variability on the cryosphere. 
 * **Multidisciplinary experience**: Ice shelf-ocean interaction, oceanography, glaciology, climate dynamics and variability, air-sea interaction, computational physics, frequency analysis, ecosystem modelling, statistics
-* **High publication outputs**: 14 journal articles, 10 conference proceedings and 10 media and public engagement articles (as of March 2020). 
+* **High publication outputs**: 18 journal articles, 14 conference proceedings and 10 media and public engagement articles (as of June 2021). 
 * **Innovative and collaborative**: Lead UTas component of major international project; lead CI on 4 major competitive grants; published with 49 co-authors from 31 different institutes across 9 countries.
 * **Field scientist**: senior field scientist on a 3-month Autonomous Underwater Vehicle mission to Antarctica (2018/2019); oceanographer on a 2-month voyage to East Antarctica (2014).
 

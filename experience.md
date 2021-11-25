@@ -7,7 +7,7 @@ permalink: /experience/
 ### Professional Experience
 
 - **2021 - present**: Research Associate // University of NSW, Sydney, Australia
-- **2020 - 2021**: Research Fellow // University of Queensland, Brisbane, Australia
+- **2020 - 2021**: Research Fellow // University of Queensland, Brisbane, Australia & Norwegian Polar Institute, Norway
 - **2020**: Consulting Data Analyst // Heywood Engineering Solutions, Brisbane, Australia
 - **2015 - 2020**: Antarctic Coastal Ocean Modeller // University of Tasmania, Hobart, Australia
 - **2013 - 2014**: Visiting Fulbright Postgraduate Research Scholar // Institute for Geophysics, University of Texas, Austin, USA
@@ -29,7 +29,7 @@ permalink: /experience/
 **2007–2009:** Bachelor of Science // School of Mathematics and Physics, University of Queensland, Australia
 
 ### Code and Languages
-- Analysis languages: Matlab (fluent), Python (intermediate proficiency)
+- Analysis languages: Matlab (fluent), Python (high proficiency)
 - Programming languages: FORTRAN (intermediate proficiency), C (basic proficiency), Markdown, LaTeX, HTML
 - Other software: git & github; NCI & Nectar virtual machine and HPC interfacing; Linux & bash shell
 - Actual languages: English; German (trying to learn!)

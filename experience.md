@@ -5,10 +5,13 @@ permalink: /experience/
 ---
 
 ### Professional Experience
-
-- **2021 - present**: Research Associate // University of NSW, Sydney, Australia
+- **2017 - present** Engaged father of 2
+- **2023 - present** Research Fellow // University of Queensland, Brisbane, Australia
+- **2021 - 2022**: Research Associate // University of NSW, Sydney, Australia
+- **2021**: Parental leave - 2 months
 - **2020 - 2021**: Research Fellow // University of Queensland, Brisbane, Australia & Norwegian Polar Institute, Norway
 - **2020**: Consulting Data Analyst // Heywood Engineering Solutions, Brisbane, Australia
+- **2017**: Parental leave - 4 months
 - **2015 - 2020**: Antarctic Coastal Ocean Modeller // University of Tasmania, Hobart, Australia
 - **2013 - 2014**: Visiting Fulbright Postgraduate Research Scholar // Institute for Geophysics, University of Texas, Austin, USA
 - **2011 - 2012**: Ecosystem Modeller // Antarctic Climate and Ecosystems CRC, Hobart, Australia
@@ -35,7 +38,7 @@ permalink: /experience/
 - Actual languages: English; German (trying to learn!)
 
 ### Invited seminars, lectures and talks (Seminars ~1 hr, Lecture ~15 mins)
-- Invite Seminar, **Subglacial freshwater drainage increases modelled ice shelf basal melting**, Centre for Applications in Natural Resource Mathematics Lab Seminar, UQ, *Australia*. 2020.
+- Invited Seminar, **Subglacial freshwater drainage increases modelled ice shelf basal melting**, Centre for Applications in Natural Resource Mathematics Lab Seminar, UQ, *Australia*. 2020.
 - Invited Seminar, **ICE/OCEAN INTERACTIONS BENEATH THE SORSDAL**, Coastal and Regional Oceanography Lab Seminar. UNSW, *Australia*. 2020.
 - Invited Seminar, **ICE/OCEAN INTERACTIONS BENEATH THE SORSDAL**, Physics of Oceans and Atmospheres Seminar. Oregon State University, *USA*. 2020.
 - Public Lecture, **Natural, intrinsic variability in melt rates of the Totten Ice Shelf**, Australia-China Antarctic Forum. Beijing Normal University, *China*. 2019.

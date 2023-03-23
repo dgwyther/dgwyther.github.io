@@ -5,7 +5,7 @@ permalink: /experience/
 ---
 
 ### Professional Experience
-- **2017 - present** Engaged father of 2
+- **2017 - present** Active and engaged father of 2 arse-kicking girls
 - **2023 - present** Research Fellow // University of Queensland, Brisbane, Australia
 - **2021 - 2022**: Research Associate // University of NSW, Sydney, Australia
 - **2021**: Parental leave - 2 months
@@ -38,6 +38,8 @@ permalink: /experience/
 - Actual languages: English; German (trying to learn!)
 
 ### Invited seminars, lectures and talks (Seminars ~1 hr, Lecture ~15 mins)
+- Invited Seminar, **Subglacial freshwater drainage increases modelled basal melt of the Totten ice shelf**, Physical Oceanography seminar series, British Antarctic Survey, 2023
+- Invited Lecture, **Evaluating a high spatiotemporal resolution XBT observation system of the EAC using Observing System Simulation Experiments**, Australian Coastal Ocean Modelling and Observation workshop, *Fremantle*, 2022
 - Invited Seminar, **Subglacial freshwater drainage increases modelled ice shelf basal melting**, Centre for Applications in Natural Resource Mathematics Lab Seminar, UQ, *Australia*. 2020.
 - Invited Seminar, **ICE/OCEAN INTERACTIONS BENEATH THE SORSDAL**, Coastal and Regional Oceanography Lab Seminar. UNSW, *Australia*. 2020.
 - Invited Seminar, **ICE/OCEAN INTERACTIONS BENEATH THE SORSDAL**, Physics of Oceans and Atmospheres Seminar. Oregon State University, *USA*. 2020.

@@ -17,10 +17,10 @@ Ice/Ocean/Climate Research Scientist  |  Brisbane, Queensland, Australia
 ## Professional Profile
 * **Ocean-Ice-Climate modeller**: Over a decade of experience in ocean-ice shelf-climate research for Antarctica and Australia using numerical models.
 * **Fulbright scholar** (2013-2014; University of Texas, Austin).
-* **High impact publications**: First-author publication in Nature Communications; co-authorships in other high profile journals.
+* **High impact publications**: Multiple publications in high profile journals: _Nature Communications_ and _Science Advances_.
 * **Multidisciplinary experience**: Ice shelf-ocean interaction, oceanography, glaciology, climate dynamics and variability, air-sea interaction, computational physics, frequency analysis, ecosystem modelling, statistics
-* **High publication outputs**: 25 journal articles, 19 conference proceedings and 10 media and public engagement articles (as of March 2023). 
-* **Innovative and collaborative**: Lead national involvment of major international Climate & Cryosphere project; lead CI on 4 major competitive grants; published with 49 co-authors from 31 different institutes across 9 countries.
+* **High publication outputs**: 27 journal articles, 19 conference proceedings and 10 media and public engagement articles (as of October 2023). 
+* **Innovative and collaborative**: Lead national involvment of major international Climate & Cryosphere project; lead CI on 4 major competitive grants; published with 62 co-authors from 33 different institutes across 10 countries.
 * **Field scientist**: senior field scientist on a 3-month Autonomous Underwater Vehicle mission to Antarctica (2018/2019); oceanographer on a 2-month voyage to East Antarctica (2014).
 
 * * *

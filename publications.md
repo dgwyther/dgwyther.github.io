@@ -9,7 +9,11 @@ permalink: /publications/
 
 ### Peer-reviewed articles
 
-25\. Xi, Y, **Gwyther, D. E.**, Galton-Fenzi, B. K.and others. Eddy and tidal deiven basal melting of the Totten and Moscow University Ice Shelves. Frontiers in Marine Science. (accepted, 2023).
+27\. Li, R., Cheng, Y., Chang, T., **Gwyther, D. E.**, Forbes, M., An, L., ... & Ye, W. Satellite record reveals 1960s acceleration of Totten Ice Shelf in East Antarctica. Nature Communications, 14(1), 4061. (2023).
+
+26\. **Gwyther, D. E.**, Dow, C. F., Jendersie, S., Gourmelen, N., & Galton‐Fenzi, B. K. Subglacial freshwater drainage increases simulated basal melt of the Totten Ice Shelf. Geophysical Research Letters, 50(12), e2023GL103765. (2023).
+
+25\. Xi, Y, **Gwyther, D. E.**, Galton-Fenzi, B. K.and others. Eddy and tidal deiven basal melting of the Totten and Moscow University Ice Shelves. Frontiers in Marine Science. 10, 1159353. (2023).
 
 24\. **Gwyther, D. E.**, Roughan, M., Kerry, C., & Keating, S. R. Impact of assimilating repeated subsurface temperature transects on state estimates of a western boundary current. Frontiers in Marine Science, 9, (2023)
 

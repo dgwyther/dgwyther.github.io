@@ -38,6 +38,10 @@ permalink: /experience/
 - Actual languages: English; German (trying to learn!)
 
 ### Invited seminars, lectures and talks (Seminars ~1 hr, Lecture ~15 mins)
+- Invited Lecture, **Numerical modelling of the oceans and cryosphere**, Studying Earth Science honours for UQ BSc students, *Brisbane*, 2023
+- Invited Tutorial, **Introduction to Ocean Modelling, ROMS and python**, University of Queensland, *Brisbane*, 2023
+- Invited Lecture, **The Cryosphere for Terrestrial Ecologists**, Terrestrial Ecosystem Research Network webinar series, *Brisbane*, 2023
+- Invited Lecture, **Towards better integration - the Cryosphere**, Integrated Earth Symposium, *Canberra*, 2023
 - Invited Seminar, **Subglacial freshwater drainage increases modelled basal melt of the Totten ice shelf**, Physical Oceanography seminar series, British Antarctic Survey, 2023
 - Invited Lecture, **Evaluating a high spatiotemporal resolution XBT observation system of the EAC using Observing System Simulation Experiments**, Australian Coastal Ocean Modelling and Observation workshop, *Fremantle*, 2022
 - Invited Seminar, **Subglacial freshwater drainage increases modelled ice shelf basal melting**, Centre for Applications in Natural Resource Mathematics Lab Seminar, UQ, *Australia*. 2020.

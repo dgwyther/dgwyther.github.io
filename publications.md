@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### Peer-reviewed articles
 
-28. Kerry, C. G., Roughan, M., Keating, S., **Gwyther, D.**, Brassington, G., Siripatana, A., and Souza, J. M. A. C.: Comparison of 4-dimensional variational and ensemble optimal interpolation data assimilation systems using a Regional Ocean Modeling System (v3.4) configuration of the eddy-dominated East Australian Current system, Geosci. Model Dev., 17, 2359–2386, https://doi.org/10.5194/gmd-17-2359-2024, (2024)
+28\. Kerry, C. G., Roughan, M., Keating, S., **Gwyther, D.**, Brassington, G., Siripatana, A., and Souza, J. M. A. C.: Comparison of 4-dimensional variational and ensemble optimal interpolation data assimilation systems using a Regional Ocean Modeling System (v3.4) configuration of the eddy-dominated East Australian Current system, Geosci. Model Dev., 17, 2359–2386, https://doi.org/10.5194/gmd-17-2359-2024, (2024)
 
 27\. Li, R., Cheng, Y., Chang, T., **Gwyther, D. E.**, Forbes, M., An, L., ... & Ye, W. Satellite record reveals 1960s acceleration of Totten Ice Shelf in East Antarctica. Nature Communications, 14(1), 4061. (2023).
 

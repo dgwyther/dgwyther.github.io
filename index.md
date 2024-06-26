@@ -25,11 +25,4 @@ Ice/Ocean/Climate Research Scientist  |  Brisbane, Queensland, Australia
 
 * * *
 
-## News
-{%- if site.posts.size > 0 -%}
-{% for post in site.posts %}
-   - {{ post.date | date_to_string }} - [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{% endfor %}
-{%- endif -%}
-
 

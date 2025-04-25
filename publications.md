@@ -109,7 +109,7 @@ permalink: /publications/
 
 6\. Science presenter, Antarctic animals, Year 1, Enoggera State School (2016)
 
-5. _Young Antarctic Scientist Program_, Science Demonstrator, Years 3-4, Dominic College, (2015)
+5\. _Young Antarctic Scientist Program_, Science Demonstrator, Years 3-4, Dominic College, (2015)
 
 4\. Science presenter, Antarctic animals, Year 1, Enoggera State School, (2014)
 

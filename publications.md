@@ -9,9 +9,17 @@ permalink: /publications/
 
 ### Peer-reviewed articles
 
-29\. Kerry, C. G., Roughan, M., Keating, S., **Gwyther, D.**, Brassington, G., Siripatana, A., and Souza, J. M. A. C.: Comparison of 4-dimensional variational and ensemble optimal interpolation data assimilation systems using a Regional Ocean Modeling System (v3.4) configuration of the eddy-dominated East Australian Current system, Geosci. Model Dev., 17, 2359–2386, https://doi.org/10.5194/gmd-17-2359-2024, (2024)
+33\. Galton-Fenzi, B. K., Porter-Smith, R., Cook, S., Cougnon, E., **Gwyther, D. E.**, Huneke, W. G. C., Rosevear, M. G., Asay-Davis, X., Boeira Dias, F., Dinniman, M. S., Holland, D., Kusahara, K., Naughten, K. A., Nicholls, K. W., Pelletier, C., Richter, O., Seroussi, H. L., and Timmermann, R.: Realistic ice-shelf/ocean state estimates (RISE) of Antarctic basal melting and drivers, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-4047, (2025). 
 
-28\. Zhou, Q., Zhao, C., Gladstone, R., Hattermann, T., **Gwyther, D.**, and Galton-Fenzi, B.: Evaluating an accelerated forcing approach for improving computational efficiency in coupled ice sheet-ocean modelling, Geoscientific Model Development [accepted], https://doi.org/10.5194/gmd-2023-244, (2024)  
+32\.  Bird, L. A., Ogarko, V., Ailleres, L., Grose, L., Giraud, J., McCormack, F. S., **Gwyther, D. E.**, Roberts, J. L., Jones, R. S., and Mackintosh, A. N.: Gravity-derived Antarctic bathymetry using the Tomofast-x open-source code: a case study of Vincennes Bay, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-211, (2025). 
+
+31\. Kerry, C., Roughan, M., Keating, S., & **Gwyther, D**. Model-Based Observing System Evaluation in a Western Boundary Current: Observation Impact from the Coherent Jet to the Eddy Field. Oceanography, 38. 2-12. (2025).
+
+30\. Kerry, C. G., Roughan, M., Keating, S., **Gwyther, D.**, Brassington, G., Siripatana, A., and Souza, J. M. A. C.: Comparison of 4-dimensional variational and ensemble optimal interpolation data assimilation systems using a Regional Ocean Modeling System (v3.4) configuration of the eddy-dominated East Australian Current system, Geosci. Model Dev., 17, 2359–2386, https://doi.org/10.5194/gmd-17-2359-2024, (2024)
+
+29\.  Blanckensee, S. N., **Gwyther, D. E.**, Galton-Fenzi, B. K., Gunn, K. L., Herraiz-Borreguero, L., Ohshima, K. I., et al. A review of the oceanography and Antarctic Bottom Water formation offshore Cape Darnley, East Antarctica. Journal of Geophysical Research: Oceans, 129, e2024JC021251. https://doi.org/10.1029/2024JC021251 (2024).
+
+28\. Zhou, Q., Zhao, C., Gladstone, R., Hattermann, T., **Gwyther, D.**, and Galton-Fenzi, B.: Evaluating an accelerated forcing approach for improving computational efficiency in coupled ice sheet–ocean modelling, Geosci. Model Dev., 17, 8243–8265, https://doi.org/10.5194/gmd-17-8243-2024, (2024).   
 
 27\. Li, R., Cheng, Y., Chang, T., **Gwyther, D. E.**, Forbes, M., An, L., ... & Ye, W. Satellite record reveals 1960s acceleration of Totten Ice Shelf in East Antarctica. Nature Communications, 14(1), 4061. (2023).
 
@@ -67,20 +75,47 @@ permalink: /publications/
 
 1\.	McRae, T. G., K. H. Lee, M. McGovern, **D. E. Gwyther**, & W. P. Bowen. Thermo-optic locking of a semiconductor laser to a microcavity resonance. Optics Express, 17(24), 21977. (2009)
 
-### Op-eds and policy documents
+### Op-eds \& policy documents
 2\.	**Gwyther, D. E.** Towards truly integrating modeling and observing of marine ice sheets. Advances in Polar Science, 29 (4) pp. 231-232. doi:10.13679/j.advps.2018.4.00231 (2018)
 
 1\.	**Gwyther, D. E.** and S. Cook, B. K. Galton-Fenzi, A. Fraser, F. S. Graham, K. Kusahara, A. Treverrow, L. M. Jong, J. L. Roberts, S. R. Rintoul, A. Worby, & T. van Ommen, Position analysis: the Antarctic ice sheet and sea level, Antarctic Climate and Ecosystems Cooperative Research Centre pp. 1-36. ISSN 1835-7911 (2017)
 
-### Media
-6\.	Spain, E, **Gwyther, D. E.** & King, P. D. Submarine ventures under Sørsdal Glacier. Australian Antarctic Magazine, No 36. pp. 18-19. (2019)
+### Media \& outreach
+19\. Interview, The melting ice shelves of Antarctica, The Wilderness Society Journal #29. (2024)
 
-5\.	**Gwyther, D. E.** We know that West Antarctica is melting. Is the east in danger, too? National Geographic, 09 August (2018)
+18\. Science Ambassador representing Antarctic Science Foundation, Antarctic Overflight QF 1330 (2024)
 
-4\.	**Gwyther, D. E.** Melting beneath Totten Glacier driven by natural variability, Australian Antarctic Magazine, No. 25. (2018)
+17\. Science presenter, Submarine robotics and lego competition, Years 5-6, Clifton \& Nobby State School (2024)
 
-3\.	Graham, F S. and **D. E. Gwyther**, L. M. Jong, S. Cook, Tipping point: how we predict when Antarctica's melting ice sheets will flood the seas, The Conversation, 14 March (2016)
+16\.  Science Ambassador representing Antarctic Science Foundation, Antarctic Overflight QF 1330 (2023)
 
-2\.	**Gwyther, D. E.** 2013 Fulbright Postgraduate Scholar heads south, The Fulbrighter, Australian-American Fulbright Commission, Canberra, Australia, July, p. 4. (2014)
+15\. Science presenter, Antarctic science, Year 1, Oakleigh State School (2023)
+
+14\. Science presenter, Antarctic science and living in Antarctica, Prep, Oakleigh State School (2022)
+
+13\. Science presenter, Living in Antarctica and Antarctic animals, Kindergarten, Ashgrove Memorial Kindergarten (2021)
+
+12\. Science presenter, Living in Antarctica and Antarctic animals, Kindergarten, Ashgrove Memorial Kindergarten (2020)
+
+11\.	Spain, E, **Gwyther, D. E.** & King, P. D. Submarine ventures under Sørsdal Glacier. Australian Antarctic Magazine, No 36. pp. 18-19. (2019)
+
+10\.	Interview, We know that West Antarctica is melting. Is the east in danger, too? National Geographic, 09 August (2018)
+
+9\.	**Gwyther, D. E.** Melting beneath Totten Glacier driven by natural variability, Australian Antarctic Magazine, No. 25. (2018)
+
+8\. Science presenter, Antarctic animals, climate and geography, Year 3-4. Enoggera State School (2017)
+
+7\.	Graham, F S. and **D. E. Gwyther**, L. M. Jong, S. Cook, Tipping point: how we predict when Antarctica's melting ice sheets will flood the seas, The Conversation, 14 March (2016)
+
+6\. Science presenter, Antarctic animals, Year 1, Enoggera State School (2016)
+
+5. _Young Antarctic Scientist Program_, Science Demonstrator, Years 3-4, Dominic College, (2015)
+
+4\. Science presenter, Antarctic animals, Year 1, Enoggera State School, (2014)
+
+3\.	**Gwyther, D. E.** 2013 Fulbright Postgraduate Scholar heads south, The Fulbrighter, Australian-American Fulbright Commission, Canberra, Australia, July, p. 4. (2014)
+
+2\. _Young Antarctic Scientist Program_, Science Demonstrator, Years 3-4, Windermere Primary School (2013)
+
 
 1\.	**Gwyther, D. E.**, B. K. Galton-Fenzi, G. D. Williams, Model simulations investigate Totten thinning, Australian Antarctic Magazine, No. 21, pp. 14-15. (2011)

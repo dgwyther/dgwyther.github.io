@@ -38,6 +38,10 @@ permalink: /experience/
 - Actual languages: English; German (trying to learn!)
 
 ### Invited seminars, lectures and talks (Seminars ~1 hr, Lecture ~15 mins)
+- Invited Seminar, **Emerging collaborative directions in Ice Sheet, Ocean and Sea Level Research**, Australia-Japan Antarctic Science working group meeting, Tokyo, Japan, 2025.
+- Invited Seminar, **Predictability across Spatial and Temporal Scales of Variability in the Coastal Ocean**, Gordon Research Conference on Coastal Ocean Dynamics, New Hampshire, USA, 2025.
+- Invited Seminar, **Infiltrating COSIMA with ROMS simulations of the Shackleton ice shelf**, Consortium for Sea Ice Modelling in Australia lecture, Hobart, Australia, 2025.
+- Invited Seminar, **Progress towards fully coupled ice sheet-ocean-hydrology modelling, **Consortium for Sea Ice Modelling in Australia lecture, Hobart, Australia, 2024.
 - Invited Lecture, **Numerical modelling of the oceans and cryosphere**, Studying Earth Science honours for UQ BSc students, *Brisbane*, 2023
 - Invited Tutorial, **Introduction to Ocean Modelling, ROMS and python**, University of Queensland, *Brisbane*, 2023
 - Invited Lecture, **The Cryosphere for Terrestrial Ecologists**, Terrestrial Ecosystem Research Network webinar series, *Brisbane*, 2023

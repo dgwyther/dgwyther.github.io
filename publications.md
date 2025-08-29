@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### Peer-reviewed articles
 
+34\. Yung, C. K., Asay-Davis, X. S., Adcroft, A., Bull, C. Y. S., De Rydt, J., Dinniman, M. S., Galton-Fenzi, B. K., Goldberg, D., **Gwyther, D. E.**, Hallberg, R., Harrison, M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., Jourdain, N. C., Kusahara, K., Marques, G., Mathiot, P., Menemenlis, D., Morrison, A. K., Nakayama, Y., Sergienko, O., Smith, R. S., Stern, A., Timmermann, R., and Zhou, Q.: Results of the second Ice Shelf – Ocean Model Intercomparison Project (ISOMIP+), EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-1942, (2025). 
+
 33\. Galton-Fenzi, B. K., Porter-Smith, R., Cook, S., Cougnon, E., **Gwyther, D. E.**, Huneke, W. G. C., Rosevear, M. G., Asay-Davis, X., Boeira Dias, F., Dinniman, M. S., Holland, D., Kusahara, K., Naughten, K. A., Nicholls, K. W., Pelletier, C., Richter, O., Seroussi, H. L., and Timmermann, R.: Realistic ice-shelf/ocean state estimates (RISE) of Antarctic basal melting and drivers, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-4047, (2025). 
 
 32\.  Bird, L. A., Ogarko, V., Ailleres, L., Grose, L., Giraud, J., McCormack, F. S., **Gwyther, D. E.**, Roberts, J. L., Jones, R. S., and Mackintosh, A. N.: Gravity-derived Antarctic bathymetry using the Tomofast-x open-source code: a case study of Vincennes Bay, The Cryosphere, 19, 3355–3380, https://doi.org/10.5194/tc-19-3355-2025, (2025). 

@@ -11,9 +11,9 @@ permalink: /publications/
 
 33\. Galton-Fenzi, B. K., Porter-Smith, R., Cook, S., Cougnon, E., **Gwyther, D. E.**, Huneke, W. G. C., Rosevear, M. G., Asay-Davis, X., Boeira Dias, F., Dinniman, M. S., Holland, D., Kusahara, K., Naughten, K. A., Nicholls, K. W., Pelletier, C., Richter, O., Seroussi, H. L., and Timmermann, R.: Realistic ice-shelf/ocean state estimates (RISE) of Antarctic basal melting and drivers, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-4047, (2025). 
 
-32\.  Bird, L. A., Ogarko, V., Ailleres, L., Grose, L., Giraud, J., McCormack, F. S., **Gwyther, D. E.**, Roberts, J. L., Jones, R. S., and Mackintosh, A. N.: Gravity-derived Antarctic bathymetry using the Tomofast-x open-source code: a case study of Vincennes Bay, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-211, (2025). 
+32\.  Bird, L. A., Ogarko, V., Ailleres, L., Grose, L., Giraud, J., McCormack, F. S., **Gwyther, D. E.**, Roberts, J. L., Jones, R. S., and Mackintosh, A. N.: Gravity-derived Antarctic bathymetry using the Tomofast-x open-source code: a case study of Vincennes Bay, The Cryosphere, 19, 3355–3380, https://doi.org/10.5194/tc-19-3355-2025, (2025). 
 
-31\. Kerry, C., Roughan, M., Keating, S., & **Gwyther, D**. Model-Based Observing System Evaluation in a Western Boundary Current: Observation Impact from the Coherent Jet to the Eddy Field. Oceanography, 38. 2-12. (2025).
+31\. Kerry, C., Roughan, M., Keating, S., & **Gwyther, D**. Model-Based Observing System Evaluation in a Western Boundary Current: Observation Impact from the Coherent Jet to the Eddy Field, Oceanography, 38. 2-12. (2025).
 
 30\. Kerry, C. G., Roughan, M., Keating, S., **Gwyther, D.**, Brassington, G., Siripatana, A., and Souza, J. M. A. C.: Comparison of 4-dimensional variational and ensemble optimal interpolation data assimilation systems using a Regional Ocean Modeling System (v3.4) configuration of the eddy-dominated East Australian Current system, Geosci. Model Dev., 17, 2359–2386, https://doi.org/10.5194/gmd-17-2359-2024, (2024)
 

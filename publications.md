@@ -83,6 +83,13 @@ permalink: /publications/
 1\.	**Gwyther, D. E.** and S. Cook, B. K. Galton-Fenzi, A. Fraser, F. S. Graham, K. Kusahara, A. Treverrow, L. M. Jong, J. L. Roberts, S. R. Rintoul, A. Worby, & T. van Ommen, Position analysis: the Antarctic ice sheet and sea level, Antarctic Climate and Ecosystems Cooperative Research Centre pp. 1-36. ISSN 1835-7911 (2017)
 
 ### Media \& outreach
+
+22\.	Science presenter, Antarctic Animals & Living in Antarctica, Year 2, Oakleigh State School (2025)
+
+21\.	Science presenter, Living in Antarctica, Kindergarten, Ashgrove Memorial Kindergarten (2025)
+
+20\.	Article, Oceanographer calls for deeper Japan-Australia science partnership to address Antarctic climate risks, Australian Antarctic Program Partnership and UQ Science News (2025)
+
 19\. Interview, The melting ice shelves of Antarctica, The Wilderness Society Journal #29. (2024)
 
 18\. Science Ambassador representing Antarctic Science Foundation, Antarctic Overflight QF 1330 (2024)

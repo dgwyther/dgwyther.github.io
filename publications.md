@@ -8,10 +8,15 @@ permalink: /publications/
 | [![Google Scholar Logo](GoogleScholar.png)](https://scholar.google.com.au/citations?user=C0PFbeQAAAAJ&hl=en) | <a itemprop="sameAs" content="https://orcid.org/0000-0002-7218-2785" href="https://orcid.org/0000-0002-7218-2785" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0002-7218-2785</a>  | <a href="https://stackexchange.com/users/1469184"><img src="https://stackexchange.com/users/flair/1469184.png" width="208" height="58" alt="profile for David_G on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for David_G on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> |
 
 ### Peer-reviewed articles
+37\. Husdell, Molly, Leventer, Amy, Lowe, Vikki, **Gwyther, D. E.**, Jeromeson, Matt, Parrott, Alexandra, Welsh, Kevin, Post, Alix, Chase, Zanna, Noble, Taryn & Bostock, Helen: Sea Surface Conditions and Antarctic Bottom Water Formation Offshore Cape Darnley, East Antarctica, Over the Last 600 ka: New Insights From the Diatom Record, Paleoceanography and Paleoclimatology, doi:10.1029/2026PA005435. Accepted.
 
-34\. Yung, C. K., Asay-Davis, X. S., Adcroft, A., Bull, C. Y. S., De Rydt, J., Dinniman, M. S., Galton-Fenzi, B. K., Goldberg, D., **Gwyther, D. E.**, Hallberg, R., Harrison, M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., Jourdain, N. C., Kusahara, K., Marques, G., Mathiot, P., Menemenlis, D., Morrison, A. K., Nakayama, Y., Sergienko, O., Smith, R. S., Stern, A., Timmermann, R., and Zhou, Q.: Results of the second Ice Shelf – Ocean Model Intercomparison Project (ISOMIP+), EGUsphere [preprint], https://doi.org/10.5194/egusphere-2025-1942, (2025). 
+36\. Yung, C. K., Asay-Davis, X. S., Adcroft, A., Bull, C. Y. S., De Rydt, J., Dinniman, M. S., Galton-Fenzi, B. K., Goldberg, D., **Gwyther, D. E.**, Hallberg, R., Harrison, M., Hattermann, T., Holland, D. M., Holland, D., Holland, P. R., Jordan, J. R., Jourdain, N. C., Kusahara, K., Marques, G., Mathiot, P., Menemenlis, D., Morrison, A. K., Nakayama, Y., Sergienko, O., Smith, R. S., Stern, A., Timmermann, R., and Zhou, Q.: Results of the second Ice Shelf–Ocean Model Intercomparison Project (ISOMIP+). The Cryosphere, 20(4), 2053-2088. (2026). 
 
-33\. Galton-Fenzi, B. K., Porter-Smith, R., Cook, S., Cougnon, E., **Gwyther, D. E.**, Huneke, W. G. C., Rosevear, M. G., Asay-Davis, X., Boeira Dias, F., Dinniman, M. S., Holland, D., Kusahara, K., Naughten, K. A., Nicholls, K. W., Pelletier, C., Richter, O., Seroussi, H. L., and Timmermann, R.: Realistic ice-shelf/ocean state estimates (RISE) of Antarctic basal melting and drivers, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2024-4047, (2025). 
+35\. **Gwyther, D. E.**, Galton‐Fenzi, B. K., Blanckensee, S., & Bostock, H. What controls the formation of Antarctic bottom water at Cape Darnley, East Antarctica?. Geophysical Research Letters, 52(24), e2025GL118187. (2025).
+
+34\. Galton-Fenzi, B. K., Porter-Smith, R., Cook, S., Cougnon, E., **Gwyther, D. E.**, Huneke, W. G. C., Rosevear, M. G., Asay-Davis, X., Boeira Dias, F., Dinniman, M. S., Holland, D., Kusahara, K., Naughten, K. A., Nicholls, K. W., Pelletier, C., Richter, O., Seroussi, H. L., and Timmermann, R.: Multi-model estimate of Antarctic ice-shelf basal mass budget and ocean drivers. The Cryosphere, 19(12), 6507-6525. (2025). 
+
+33\. Papapetros, P., Galton‐Fenzi, B. K., **Gwyther, D. E.**, Boeira Dias, F., & Zhao, C. Effects of sediment‐laden subglacial discharge on ice shelf basal melting and seabed evolution. Journal of Geophysical Research: Oceans, 130(12), e2025JC023422. (2025).
 
 32\.  Bird, L. A., Ogarko, V., Ailleres, L., Grose, L., Giraud, J., McCormack, F. S., **Gwyther, D. E.**, Roberts, J. L., Jones, R. S., and Mackintosh, A. N.: Gravity-derived Antarctic bathymetry using the Tomofast-x open-source code: a case study of Vincennes Bay, The Cryosphere, 19, 3355–3380, https://doi.org/10.5194/tc-19-3355-2025, (2025). 
 
@@ -83,14 +88,23 @@ permalink: /publications/
 1\.	**Gwyther, D. E.** and S. Cook, B. K. Galton-Fenzi, A. Fraser, F. S. Graham, K. Kusahara, A. Treverrow, L. M. Jong, J. L. Roberts, S. R. Rintoul, A. Worby, & T. van Ommen, Position analysis: the Antarctic ice sheet and sea level, Antarctic Climate and Ecosystems Cooperative Research Centre pp. 1-36. ISSN 1835-7911 (2017)
 
 ### Media \& outreach
+27\. Scientist presenter, _Researchers on Tap event_, World Science Festival Brisbane (2026)
+
+26\. Science presenter, Antarctic science and living in Antarctica, Prep, Oakleigh State School (2026)
+
+25\. Science Ambassador representing Antarctic Science Foundation, Antarctic Overflight QF 1330 (2025)
+
+24\. Interview, [Aussie scientists warn of catastrophe after discovery at bottom of ocean](https://au.news.yahoo.com/aussie-scientists-warn-of-catastrophe-after-discovery-at-bottom-of-ocean-051104911.html), Yahoo News (2025)
+
+23\. Media release, [A delicate Antarctic balance with global climate implications](https://news.uq.edu.au/2025-12-delicate-antarctic-balance-crucial-global-climate), UQ News; MSN Phys.org (2025)
 
 22\.	Science presenter, Antarctic Animals & Living in Antarctica, Year 2, Oakleigh State School (2025)
 
 21\.	Science presenter, Living in Antarctica, Kindergarten, Ashgrove Memorial Kindergarten (2025)
 
-20\.	Article, Oceanographer calls for deeper Japan-Australia science partnership to address Antarctic climate risks, Australian Antarctic Program Partnership and UQ Science News (2025)
+20\.	Article, [Oceanographer calls for deeper Japan-Australia science partnership to address Antarctic climate risks](https://aappartnership.org.au/oceanographer-calls-for-deeper-japan-australia-science-partnership-to-address-antarctic-climate-risks/), Australian Antarctic Program Partnership and UQ Science News (2025)
 
-19\. Interview, The melting ice shelves of Antarctica, The Wilderness Society Journal #29. (2024)
+19\. Interview, [The melting ice shelves of Antarctica](https://wilderness.org.au/journal/issue-029#:~:text=The%20melting%20ice%20shelves%20of%20Antarctica), The Wilderness Society Journal #29. (2024)
 
 18\. Science Ambassador representing Antarctic Science Foundation, Antarctic Overflight QF 1330 (2024)
 

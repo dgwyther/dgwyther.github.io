@@ -6,7 +6,8 @@ permalink: /experience/
 
 ### Professional Experience
 - **2017 - present** Active and engaged father of 2 arse-kicking girls
-- **2023 - present** Research Fellow // University of Queensland, Brisbane, Australia
+- **2026 - present** Research Fellow // Australian Antarctic Program Partnership (UTAS) & Australian Antarctic Division
+- **2023 - 2026** Research Fellow // University of Queensland, Brisbane, Australia
 - **2021 - 2022**: Research Associate // University of NSW, Sydney, Australia
 - **2021**: Parental leave - 2 months
 - **2020 - 2021**: Research Fellow // University of Queensland, Brisbane, Australia & Norwegian Polar Institute, Norway
@@ -38,6 +39,7 @@ permalink: /experience/
 - Actual languages: English; German (trying to learn!)
 
 ### Invited seminars, lectures and talks (Seminars ~1 hr, Lecture ~15 mins)
+- Invited Seminar, **Antarctica and the Pacific are connected. The Southern Ocean is the bridge**, From UNOC-3 to COP31: Science Evidence, Pacific Resilience and Southern Connections regional forum, Nouméa, New Caledonia, 2026.
 - Invited Seminar, **Emerging collaborative directions in Ice Sheet, Ocean and Sea Level Research**, Australia-Japan Antarctic Science working group meeting, Tokyo, Japan, 2025.
 - Invited Seminar, **Predictability across Spatial and Temporal Scales of Variability in the Coastal Ocean**, Gordon Research Conference on Coastal Ocean Dynamics, New Hampshire, USA, 2025.
 - Invited Seminar, **Infiltrating COSIMA with ROMS simulations of the Shackleton ice shelf**, Consortium for Sea Ice Modelling in Australia lecture, Hobart, Australia, 2025.
